@@ -1,0 +1,10 @@
+./../print_function_name ~/blender_kernels/kernel_0.cl kernel_ocl_path_trace_data_initialization_AMD > kernel_0_func 
+./../print_function_name ~/blender_kernels/kernel_1.cl kernel_ocl_path_trace_SceneIntersect_LampEmission_AMD > kernel_1_func
+./../print_function_name ~/blender_kernels/kernel_2.cl kernel_ocl_path_trace_QueueEnqueue_AMD > kernel_2_func
+./../print_function_name ~/blender_kernels/kernel_3.cl kernel_ocl_path_trace_Background_BufferUpdate_AMD > kernel_3_func
+./../print_function_name ~/blender_kernels/kernel_4.cl kernel_ocl_path_trace_ShaderEvaluation_AMD > kernel_4_func
+./../print_function_name ~/blender_kernels/kernel_5.cl kernel_ocl_path_trace_holdout_emission_blurring_pathtermination_AMD > kernel_5_func
+./../print_function_name ~/blender_kernels/kernel_6.cl kernel_ocl_path_trace_AO_AMD > kernel_6_func
+./../print_function_name ~/blender_kernels/kernel_7.cl kernel_ocl_path_trace_DirectLighting_AMD > kernel_7_func
+./../print_function_name ~/blender_kernels/kernel_8.cl kernel_ocl_path_trace_ShadowBlocked_DirectLighting_AMD > kernel_8_func
+./../print_function_name ~/blender_kernels/kernel_9.cl kernel_ocl_path_trace_SetupNextIteration_AMD > kernel_9_func
