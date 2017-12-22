@@ -8,6 +8,7 @@ void init_trie(trie *t) {
   t->node = create_trie_node();
 }
 
+
 /* Add string str to trie */
 void add_string(trie *t, string &str) {
   trie_node *node = t->node;

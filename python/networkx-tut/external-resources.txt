@@ -1,0 +1,3 @@
+NetworkX          - create graphs
+Matplotlib.pyplot - draw graphs
+Resources - https://networkx.github.io/documentation/stable/tutorial.html 
